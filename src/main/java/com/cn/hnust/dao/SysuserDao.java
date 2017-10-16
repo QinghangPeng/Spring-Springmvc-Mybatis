@@ -11,7 +11,7 @@ import com.cn.hnust.entity.Sysuser;
  *
  * <p>Description: </p>
  *
- * <p>Company: 北京九恒星科技股份有限公司</p>
+ * <p>Company: openSource</p>
  *
  * @author 作者 penghao
  * 
