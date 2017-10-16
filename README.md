@@ -1,2 +1,2 @@
 # Spring-Springmvc-Mybatis
-This is a SSM demo for learning
+This is a demo for SSM frame
